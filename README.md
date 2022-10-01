@@ -1,4 +1,4 @@
-## Olá! Eu sou o Walter✌️😎 (perfil em contrução)
+## Olá! Eu sou o Walter✌️😎 (perfil em construção)
 
 - 🔭 Busco migrar e trabalhar com back-end
 - 🌱 Estou aprendendo HTML, CSS and JavaScript
