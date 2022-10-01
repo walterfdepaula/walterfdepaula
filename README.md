@@ -1,17 +1,11 @@
-### Hi there 👋 (profile under construction)
+## Olá! Eu sou o Walter✌️😎 (profile under construction)
 
-<!--
-**walterfdepaula/walterfdepaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently looking to migrate to a back-end programmer
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 😄 Pronouns: He/His
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![MrBeanCheckingTimeGIF](https://user-images.githubusercontent.com/112748736/193379293-74da735a-2b72-4070-a865-76e962e3b793.gif)
+<div align="center">
+  <a href="https://github.com/walterfdepaula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walterfdepaula&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterfdepaula&layout=compact&langs_count=7&theme=dark"/>
+</div>
