@@ -1,8 +1,8 @@
-## Olá! Eu sou o Walter✌️😎 (profile under construction)
+## Olá! Eu sou o Walter✌️😎 (perfil em contrução)
 
-- 🔭 I'm currently looking to migrate to a back-end programmer
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 😄 Pronouns: He/His
+- 🔭 Busco migrar e trabalhar com back-end
+- 🌱 Estou aprendendo HTML, CSS and JavaScript
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/walterfdepaula">
